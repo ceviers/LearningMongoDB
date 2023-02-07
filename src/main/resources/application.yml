@@ -1,0 +1,4 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb://root:root123.@local.server:27017/cvrDB?authSource=admin&authMechanism=SCRAM-SHA-1
